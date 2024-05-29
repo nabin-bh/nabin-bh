@@ -1,3 +1,4 @@
+![Nabin's github stats](https://github-readme-stats.vercel.app/api?username=nabin-bh&show_icons=true&theme=dracula&hide=stars,issues)
 
 ```txt
 PHP        2 hrs 30 mins   █████████████████▒░░░░░░░   69.55 %
