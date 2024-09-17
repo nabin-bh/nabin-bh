@@ -26,6 +26,5 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
-
-![Nabin's github stats](https://github-readme-stats.vercel.app/api?username=nabin-bh&show_icons=true&theme=dracula&hide=stars,issues)
+ 
  
